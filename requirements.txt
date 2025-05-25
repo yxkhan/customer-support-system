@@ -1,3 +1,11 @@
-fastapi
-langchain
-langchain_community
+langchain_astradb
+pandas
+langchain_google_genai
+fastapi 
+uvicorn 
+python-multipart
+jinja2
+python-dotenv 
+langchain 
+langchain_core 
+-e .      #for every folder which has __init__.py file we have to add '-e .' to install them as packages - for this we required setup.py file in the folder setup.py file
