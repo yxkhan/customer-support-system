@@ -8,5 +8,8 @@ uvicorn main:app --reload --port 8001    #To initialize the fastapi
 All the Best
 ```
 ```
-This is the customer support sys
+This is the customer support system new github repo
+```
+```
+new repor created in AWS ECR as well
 ```
