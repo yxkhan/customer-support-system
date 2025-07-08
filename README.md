@@ -7,3 +7,6 @@ uvicorn main:app --reload --port 8001    #To initialize the fastapi
 ```
 All the Best
 ```
+```
+for you deployment 
+```
