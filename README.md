@@ -13,3 +13,7 @@ This is the customer support system new github repo
 ```
 new repor created in AWS ECR as well
 ```
+
+```
+python -m streamlit run scrapper_ingestion_ui.py
+```
