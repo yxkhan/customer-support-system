@@ -1,3 +1,8 @@
+from dotenv import load_dotenv
+import os
+load_dotenv()
+# This code snippet is used to load and print the endpoint from the .env file.
+
 # Uvicorn is the ASGI server used to run the FastAPI application
 import uvicorn
 
